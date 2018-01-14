@@ -1,0 +1,54 @@
+.head{
+  background-color: blue;
+  height: 70px;
+  margin: 0;
+  padding: 25px;
+
+}
+.head p{
+  color: white;
+  display: inline-block;
+  padding-left: 40%;
+  padding-top: 0;
+  font-size: 50px;
+  margin-top: 0;
+
+}
+.middle{
+  background-color: pink;
+  padding-top: 5px;
+}
+.middle p{
+  margin-top: 10px;
+  padding-left: 30%;
+  background-color: green;
+  padding-top: 15px;
+  padding-bottom: 15px;
+
+}
+input{
+  background-color: white;
+  height: 30px;
+  width: 500px;
+  margin-left: 30px;
+}
+button{
+  padding-left: 41px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    padding-right: 41px;
+    margin-left: 40%;
+    margin-top: 10px;
+    background-color: yellow;
+}
+span{padding-left: 40%;
+
+}
+.Forgot{
+      width: 220px;
+      margin: auto;
+
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+}
